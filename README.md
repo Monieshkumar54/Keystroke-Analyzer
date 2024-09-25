@@ -1,6 +1,6 @@
-##Keystroke Analyzer
+## Keystroke Analyzer
 
-Overview
+## Overview
 
 The Keystroke Analyzer is a Python script that captures and analyzes keystrokes on a computer. It uses the pynput library to monitor keyboard events and sends the captured keystrokes to a specified email address using the smtplib library.
 
